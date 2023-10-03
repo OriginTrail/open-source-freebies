@@ -1,0 +1,3 @@
+This repository contains open source, freely available pictures that you can use in your own personal projects. Some are in png and some are in jpg, and there are some zip files with more content.
+In order to contribute, make sure that you put your submission in the correct folder and verify that it's legally available to be used for free. Submissions that aren't available for free will not be accepted. 
+The images included are from origin-trail projects. Try to submit images that fit in with what's already there. If you do download some images from this repository for personal / professional use, you should credit this repository and the contributor who submitted the art that you used for that art.
